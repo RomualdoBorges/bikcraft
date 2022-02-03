@@ -26,7 +26,6 @@
   /*(height: 100%; object-fit: cover;) faz com que a imagem tenha sempre 100% da altura do elemento pai e não distorça*/
   height: 100%;
   object-fit: cover;
-  border-radius: 4px;
 }
 
 .introducao h1 {
