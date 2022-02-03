@@ -2,6 +2,7 @@ body {
   /*(margin: 0px;) retira a margin que o body tem por padrão*/
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
+  color: #111111;
   /*(padding-bottom: 600px;) para sempre ter um pedaço para scrollar e ver como está ficando*/
   padding-bottom: 600px;
 }
